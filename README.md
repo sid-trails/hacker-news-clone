@@ -1,5 +1,34 @@
 # hacker-news-clone
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+Test Application for pulling Hacker News, **Ephasises On Design and Responsive nature**
+
+# Architectural Decision Records
+
+## Record #1
+
+### Style Decisions
+
+Using React-Bootstrap for styling as it is a basic and has all the semantic styles that are required and also provides component level imports which makes our package size also minimal.
+
+### Component Design
+
+Planing to have 3  High level Components
+
+- Navbar
+- NavLinks that will change the content
+- Content Lists
+  - Content Element
+  - Hide Element
+  - Paginate Elements
+
+### Storage
+  Thought process is to use local storage.
+
+### Charts
+Initial Plan is to use Chart Js.
+
+* * *
+
+# Notes From CRA
 
 ## Available Scripts
 
