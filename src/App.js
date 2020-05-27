@@ -7,7 +7,7 @@ import './App.css';
 function App() {
 	return (
 		<div tabIndex="0" className="App">
-			<div className="container main-container bg-main-content px-0 px-md-15">
+			<div className="container px-0 px-md-15">
 				<Navbar bg="dark" variant="dark" className="py-0">
 					<NavbarBrand className="py-0">Hacker News</NavbarBrand>
 				</Navbar>
