@@ -26,6 +26,9 @@ Planing to have 3  High level Components
 ### Charts
 Initial Plan is to use Chart Js.
 
+### Hosting
+Will Deploy on to Azure web app. Not thinking of a docker yet as its a simple server less architecture that can host node applications directly with vertical scalling :)
+
 * * *
 
 # Notes From CRA
