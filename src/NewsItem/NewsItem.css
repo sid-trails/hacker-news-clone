@@ -1,0 +1,8 @@
+.NewsItem-author {
+  line-height:1rem;
+}
+.NewsItem-Upvotes {
+  font-size: 0.5rem;
+  line-height: 0.6rem;
+  padding: 3px  0 !important;
+}

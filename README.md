@@ -21,7 +21,7 @@ Planing to have 3  High level Components
   - Paginate Elements
 
 ### Storage
-  Thought process is to use local storage.
+  Thought process is to use local storage. in a custom hook so it can be easily replaceable.
 
 ### Charts
 Initial Plan is to use Chart Js.

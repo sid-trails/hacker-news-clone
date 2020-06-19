@@ -1,0 +1,532 @@
+{
+	"hits": [
+		{
+			"created_at": "2020-05-28T13:42:07.000Z",
+			"title": "AudioMass – free, open source, web-based Audio and Waveform editor",
+			"url": "https://audiomass.co/",
+			"author": "zaiste",
+			"points": 895,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 162,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590673327,
+			"_tags": [ "story", "author_zaiste", "story_23337091", "front_page" ],
+			"objectID": "23337091",
+			"_highlightResult": {
+				"title": {
+					"value": "AudioMass – free, open source, web-based Audio and Waveform editor",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"url": { "value": "https://audiomass.co/", "matchLevel": "none", "matchedWords": [] },
+				"author": { "value": "zaiste", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-28T17:15:07.000Z",
+			"title": "Tools for Better Thinking",
+			"url": "https://untools.co",
+			"author": "mmoez",
+			"points": 713,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 93,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590686107,
+			"_tags": [ "story", "author_mmoez", "story_23339830", "front_page" ],
+			"objectID": "23339830",
+			"_highlightResult": {
+				"title": { "value": "Tools for Better Thinking", "matchLevel": "none", "matchedWords": [] },
+				"url": { "value": "https://untools.co", "matchLevel": "none", "matchedWords": [] },
+				"author": { "value": "mmoez", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-28T16:31:43.000Z",
+			"title": "Show HN: RoughNotation – create and animate hand-drawn annotations on a web page",
+			"url": "https://roughnotation.com/",
+			"author": "shihn",
+			"points": 573,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 67,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590683503,
+			"_tags": [ "story", "author_shihn", "story_23339244", "show_hn", "front_page" ],
+			"objectID": "23339244",
+			"_highlightResult": {
+				"title": {
+					"value": "Show HN: RoughNotation – create and animate hand-drawn annotations on a web page",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"url": { "value": "https://roughnotation.com/", "matchLevel": "none", "matchedWords": [] },
+				"author": { "value": "shihn", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-28T07:02:23.000Z",
+			"title": "The Vintage Beauty of Soviet Control Rooms (2018)",
+			"url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+			"author": "ricardomcgowan",
+			"points": 571,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 230,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590649343,
+			"_tags": [ "story", "author_ricardomcgowan", "story_23334339", "front_page" ],
+			"objectID": "23334339",
+			"_highlightResult": {
+				"title": {
+					"value": "The Vintage Beauty of Soviet Control Rooms (2018)",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"url": {
+					"value": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"author": { "value": "ricardomcgowan", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-28T19:15:15.000Z",
+			"title": "Idea Generation",
+			"url": "https://blog.samaltman.com/idea-generation",
+			"author": "awaxman11",
+			"points": 364,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 111,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590693315,
+			"_tags": [ "story", "author_awaxman11", "story_23341179", "front_page" ],
+			"objectID": "23341179",
+			"_highlightResult": {
+				"title": { "value": "Idea Generation", "matchLevel": "none", "matchedWords": [] },
+				"url": { "value": "https://blog.samaltman.com/idea-generation", "matchLevel": "none", "matchedWords": [] },
+				"author": { "value": "awaxman11", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-29T01:36:51.000Z",
+			"title": "GPT-3: Language Models Are Few-Shot Learners",
+			"url": "https://arxiv.org/abs/2005.14165",
+			"author": "gwern",
+			"points": 276,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 72,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590716211,
+			"_tags": [ "story", "author_gwern", "story_23345379", "front_page" ],
+			"objectID": "23345379",
+			"_highlightResult": {
+				"title": { "value": "GPT-3: Language Models Are Few-Shot Learners", "matchLevel": "none", "matchedWords": [] },
+				"url": { "value": "https://arxiv.org/abs/2005.14165", "matchLevel": "none", "matchedWords": [] },
+				"author": { "value": "gwern", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-28T18:48:35.000Z",
+			"title": "Android Studio 4.0",
+			"url": "https://android-developers.googleblog.com/2020/05/android-studio-4.html",
+			"author": "raybb",
+			"points": 235,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 224,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590691715,
+			"_tags": [ "story", "author_raybb", "story_23340887", "front_page" ],
+			"objectID": "23340887",
+			"_highlightResult": {
+				"title": { "value": "Android Studio 4.0", "matchLevel": "none", "matchedWords": [] },
+				"url": {
+					"value": "https://android-developers.googleblog.com/2020/05/android-studio-4.html",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"author": { "value": "raybb", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-28T22:39:04.000Z",
+			"title": "I wrote a SaaS product because the internet made me believe it'd make me rich",
+			"url": "https://blog.stetsonblake.com/thoughts-on-learning-to-design-build-and-launch-a-saas-business/",
+			"author": "stets",
+			"points": 226,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 143,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590705544,
+			"_tags": [ "story", "author_stets", "story_23343794", "front_page" ],
+			"objectID": "23343794",
+			"_highlightResult": {
+				"title": {
+					"value": "I wrote a SaaS product because the internet made me believe it'd make me rich",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"url": {
+					"value": "https://blog.stetsonblake.com/thoughts-on-learning-to-design-build-and-launch-a-saas-business/",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"author": { "value": "stets", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-28T09:42:29.000Z",
+			"title": "Why we have so many problems with our teeth",
+			"url": "https://www.scientificamerican.com/article/why-we-have-so-many-problems-with-our-teeth/",
+			"author": "lelf",
+			"points": 210,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 175,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590658949,
+			"_tags": [ "story", "author_lelf", "story_23335368", "front_page" ],
+			"objectID": "23335368",
+			"_highlightResult": {
+				"title": { "value": "Why we have so many problems with our teeth", "matchLevel": "none", "matchedWords": [] },
+				"url": {
+					"value": "https://www.scientificamerican.com/article/why-we-have-so-many-problems-with-our-teeth/",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"author": { "value": "lelf", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-29T05:43:13.000Z",
+			"title": "Translation from VC-Backed PR Jargon to English of Magic Leap CEO Statement",
+			"url": "https://daringfireball.net/2020/05/abovitz_magic_leap_translation",
+			"author": "docdeek",
+			"points": 209,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 63,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590730993,
+			"_tags": [ "story", "author_docdeek", "story_23346620", "front_page" ],
+			"objectID": "23346620",
+			"_highlightResult": {
+				"title": {
+					"value": "Translation from VC-Backed PR Jargon to English of Magic Leap CEO Statement",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"url": {
+					"value": "https://daringfireball.net/2020/05/abovitz_magic_leap_translation",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"author": { "value": "docdeek", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-28T17:11:34.000Z",
+			"title": "The Fastest Google Fonts",
+			"url": "https://csswizardry.com/2020/05/the-fastest-google-fonts/",
+			"author": "mmoez",
+			"points": 185,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 114,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590685894,
+			"_tags": [ "story", "author_mmoez", "story_23339776", "front_page" ],
+			"objectID": "23339776",
+			"_highlightResult": {
+				"title": { "value": "The Fastest Google Fonts", "matchLevel": "none", "matchedWords": [] },
+				"url": {
+					"value": "https://csswizardry.com/2020/05/the-fastest-google-fonts/",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"author": { "value": "mmoez", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-28T22:39:24.000Z",
+			"title": "Deno Is a Browser for Code",
+			"url": "https://kitsonkelly.com/posts/deno-is-a-browser-for-code/",
+			"author": "beefman",
+			"points": 172,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 91,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590705564,
+			"_tags": [ "story", "author_beefman", "story_23343799", "front_page" ],
+			"objectID": "23343799",
+			"_highlightResult": {
+				"title": { "value": "Deno Is a Browser for Code", "matchLevel": "none", "matchedWords": [] },
+				"url": {
+					"value": "https://kitsonkelly.com/posts/deno-is-a-browser-for-code/",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"author": { "value": "beefman", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-28T10:41:15.000Z",
+			"title": "Trilium Notes: Markdown autoformat personal knowledge base",
+			"url": "https://github.com/zadam/trilium",
+			"author": "en3r0",
+			"points": 166,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 44,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590662475,
+			"_tags": [ "story", "author_en3r0", "story_23335759", "front_page" ],
+			"objectID": "23335759",
+			"_highlightResult": {
+				"title": {
+					"value": "Trilium Notes: Markdown autoformat personal knowledge base",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"url": { "value": "https://github.com/zadam/trilium", "matchLevel": "none", "matchedWords": [] },
+				"author": { "value": "en3r0", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-29T01:01:40.000Z",
+			"title": "OpenSSL 3.0",
+			"url": "https://wiki.openssl.org/index.php/OpenSSL_3.0",
+			"author": "ddb",
+			"points": 155,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 43,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590714100,
+			"_tags": [ "story", "author_ddb", "story_23345135", "front_page" ],
+			"objectID": "23345135",
+			"_highlightResult": {
+				"title": { "value": "OpenSSL 3.0", "matchLevel": "none", "matchedWords": [] },
+				"url": { "value": "https://wiki.openssl.org/index.php/OpenSSL_3.0", "matchLevel": "none", "matchedWords": [] },
+				"author": { "value": "ddb", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-29T05:30:02.000Z",
+			"title": "U.K. Plans Citizenship for Hong Kong Residents in Row with China",
+			"url": "https://www.bloomberg.com/news/articles/2020-05-28/u-k-plans-citizenship-for-hong-kong-residents-in-row-with-china",
+			"author": "JumpCrisscross",
+			"points": 153,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 133,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590730202,
+			"_tags": [ "story", "author_JumpCrisscross", "story_23346552", "front_page" ],
+			"objectID": "23346552",
+			"_highlightResult": {
+				"title": {
+					"value": "U.K. Plans Citizenship for Hong Kong Residents in Row with China",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"url": {
+					"value": "https://www.bloomberg.com/news/articles/2020-05-28/u-k-plans-citizenship-for-hong-kong-residents-in-row-with-china",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"author": { "value": "JumpCrisscross", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-29T01:06:49.000Z",
+			"title": "1989 California Medfly Attack",
+			"url": "https://en.wikipedia.org/wiki/1989_California_medfly_attack",
+			"author": "eindiran",
+			"points": 133,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 53,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590714409,
+			"_tags": [ "story", "author_eindiran", "story_23345173", "front_page" ],
+			"objectID": "23345173",
+			"_highlightResult": {
+				"title": { "value": "1989 California Medfly Attack", "matchLevel": "none", "matchedWords": [] },
+				"url": {
+					"value": "https://en.wikipedia.org/wiki/1989_California_medfly_attack",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"author": { "value": "eindiran", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-28T22:12:06.000Z",
+			"title": "Most-streamed track of the day by country",
+			"url": "https://www.worldspotify.com/",
+			"author": "sebastien-lbn",
+			"points": 114,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 136,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590703926,
+			"_tags": [ "story", "author_sebastien-lbn", "story_23343466", "front_page" ],
+			"objectID": "23343466",
+			"_highlightResult": {
+				"title": { "value": "Most-streamed track of the day by country", "matchLevel": "none", "matchedWords": [] },
+				"url": { "value": "https://www.worldspotify.com/", "matchLevel": "none", "matchedWords": [] },
+				"author": { "value": "sebastien-lbn", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-27T21:16:56.000Z",
+			"title": "How many people did it take to build the Great Pyramid?",
+			"url": "https://spectrum.ieee.org/tech-history/heroic-failures/how-many-people-did-it-take-to-build-the-great-pyramid",
+			"author": "samizdis",
+			"points": 94,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 66,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590614216,
+			"_tags": [ "story", "author_samizdis", "story_23330099", "front_page" ],
+			"objectID": "23330099",
+			"_highlightResult": {
+				"title": {
+					"value": "How many people did it take to build the Great Pyramid?",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"url": {
+					"value": "https://spectrum.ieee.org/tech-history/heroic-failures/how-many-people-did-it-take-to-build-the-great-pyramid",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"author": { "value": "samizdis", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-28T19:49:00.000Z",
+			"title": "PowerPC Solaris on the RS/6000",
+			"url": "https://virtuallyfun.com/wordpress/2020/05/28/powerpc-solaris-on-the-rs-6000/",
+			"author": "bcantrill",
+			"points": 73,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 44,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590695340,
+			"_tags": [ "story", "author_bcantrill", "story_23341721", "front_page" ],
+			"objectID": "23341721",
+			"_highlightResult": {
+				"title": { "value": "PowerPC Solaris on the RS/6000", "matchLevel": "none", "matchedWords": [] },
+				"url": {
+					"value": "https://virtuallyfun.com/wordpress/2020/05/28/powerpc-solaris-on-the-rs-6000/",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"author": { "value": "bcantrill", "matchLevel": "none", "matchedWords": [] }
+			}
+		},
+		{
+			"created_at": "2020-05-28T12:22:26.000Z",
+			"title": "What's in a Parser Combinator? (2016)",
+			"url": "https://remusao.github.io/posts/whats-in-a-parser-combinator.html",
+			"author": "pythux",
+			"points": 63,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 13,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1590668546,
+			"_tags": [ "story", "author_pythux", "story_23336396", "front_page" ],
+			"objectID": "23336396",
+			"_highlightResult": {
+				"title": { "value": "What's in a Parser Combinator? (2016)", "matchLevel": "none", "matchedWords": [] },
+				"url": {
+					"value": "https://remusao.github.io/posts/whats-in-a-parser-combinator.html",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"author": { "value": "pythux", "matchLevel": "none", "matchedWords": [] }
+			}
+		}
+	],
+	"nbHits": 30,
+	"page": 0,
+	"nbPages": 2,
+	"hitsPerPage": 20,
+	"exhaustiveNbHits": true,
+	"query": "",
+	"params": "advancedSyntax=true\u0026analytics=true\u0026analyticsTags=backend\u0026tags=front_page",
+	"processingTimeMS": 1
+}
